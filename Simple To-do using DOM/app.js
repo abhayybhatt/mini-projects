@@ -27,3 +27,4 @@ ul.addEventListener('click',function(event){
         console.log('deleted.');
    };//isse pata chalega ki kaunsa button click kiya gya hai. nodeName batayega kisne event ko trigger kiya, kya wo button hai, div hai, ya kuch aur hai. In this case, it will give BUTTON as output.
 });
+//
